@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <div class="head">
-      <span>刘伟博客</span>
+      <span>刘伟</span>
       <span>study hard, play hard.</span>
     </div>
     <div class="space"></div>
